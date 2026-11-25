@@ -1,6 +1,6 @@
 # US distillate stocks and the diesel crack
 
-An automated weekly report on US distillate inventories (diesel and heating oil) and the NY Harbor diesel crack, built as an Excel dashboard and a Power BI report from free EIA data.
+An weekly report that updates in about 5 mins on US distillate inventories (diesel and heating oil) and the NY Harbor diesel crack, built as an Excel dashboard and a Power BI report from free EIA data.
 
 It answers the two questions a trader asks after the EIA's Wednesday inventory release:
 
