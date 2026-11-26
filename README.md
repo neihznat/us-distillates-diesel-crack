@@ -76,7 +76,3 @@ Excel (Power Query, XLOOKUP, combo and scatter charts) · Power BI (Power Query,
 | `us-distillates/A_us_distillates_dashboard.xlsx` | Excel dashboard, with data |
 | `us-distillates/A_us_distillates.pbix` | Power BI report, with data |
 | `images/` | Screenshots for this page |
-
-## Coming next
-
-This is Part A of a three-part oil market reporting project. Part B (country supply/demand balances from JODI) and Part C (Singapore oil trade flows) will be added here.
