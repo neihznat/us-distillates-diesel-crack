@@ -1,5 +1,7 @@
 # US distillate stocks and the diesel crack
 
+**Takeaway (data through 6 Nov 2026):** the diesel crack is far higher than US distillate stocks can explain. At $93.55/bbl, the crack is about $68 above the level implied by stocks. Something other than US inventories is setting the price.
+
 An weekly report that updates in about 5 mins on US distillate inventories (diesel and heating oil) and the NY Harbor diesel crack, built as an Excel dashboard and a Power BI report from free EIA data.
 
 It answers the two questions a trader asks after the EIA's Wednesday inventory release:
